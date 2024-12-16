@@ -45,7 +45,7 @@ tic-tac-toe/
 └── README.md            // Project documentation
 # How to Run the Project
 1. Download or clone the repository:
-   git clone https://github.com/your-username/tic-tac-toe.git
+   git clone https://github.com/satyam-software-developer/Tic-Tac-Toe-Game.git
 2. Open the index.html file in any modern browser (e.g., Chrome, Firefox, Edge).
 3. Start playing the game!
 # Contributing
