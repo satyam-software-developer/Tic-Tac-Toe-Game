@@ -40,8 +40,8 @@ This project is a browser-based implementation of the classic Tic-Tac-Toe game. 
 # Folder Structure
 tic-tac-toe/
 ├── index.html           // Main HTML file
-├── styles.css           // CSS file for styling
-├── script.js            // JavaScript file for game logic
+├── style.css           // CSS file for styling
+├── app.js            // JavaScript file for game logic
 └── README.md            // Project documentation
 # How to Run the Project
 1. Download or clone the repository:
